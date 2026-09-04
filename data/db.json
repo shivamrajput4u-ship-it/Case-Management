@@ -1,0 +1,73 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "title": "Sharma vs. Metro Builders Pvt Ltd",
+      "caseNumber": "CS/2026/1042",
+      "court": "District Court, Faridabad",
+      "status": "Active",
+      "parties": "Petitioner: A. Sharma \u00b7 Respondent: Metro Builders Pvt Ltd",
+      "assignedTo": "Adv. R. Mehta",
+      "nextHearing": "2026-09-18",
+      "notes": "Awaiting respondent's written statement. Follow up with clerk if not filed by the 15th.",
+      "documents": [],
+      "hearingHistory": [
+        {
+          "date": "2026-07-02",
+          "note": "Case admitted, notice issued"
+        },
+        {
+          "date": "2026-09-18",
+          "note": "Next hearing scheduled"
+        }
+      ],
+      "createdAt": "2026-07-01T09:00:00.000Z",
+      "updatedAt": "2026-08-20T09:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "State vs. Verma",
+      "caseNumber": "CRL/2026/0217",
+      "court": "Sessions Court, Faridabad",
+      "status": "Urgent",
+      "parties": "State \u00b7 Accused: R. Verma",
+      "assignedTo": "Adv. P. Kaur",
+      "nextHearing": "2026-09-09",
+      "notes": "Bail application to be filed before next hearing.",
+      "documents": [],
+      "hearingHistory": [
+        {
+          "date": "2026-08-15",
+          "note": "Charges framed"
+        },
+        {
+          "date": "2026-09-09",
+          "note": "Next hearing scheduled"
+        }
+      ],
+      "createdAt": "2026-08-01T09:00:00.000Z",
+      "updatedAt": "2026-08-28T09:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Gupta Family Trust \u2014 Succession",
+      "caseNumber": "SC/2025/0876",
+      "court": "Civil Court, Faridabad",
+      "status": "Pending",
+      "parties": "Petitioners: Gupta family heirs",
+      "assignedTo": "Adv. R. Mehta",
+      "nextHearing": "",
+      "notes": "On hold pending submission of family tree affidavit by client.",
+      "documents": [],
+      "hearingHistory": [
+        {
+          "date": "2025-12-10",
+          "note": "Petition filed"
+        }
+      ],
+      "createdAt": "2025-12-10T09:00:00.000Z",
+      "updatedAt": "2026-06-01T09:00:00.000Z"
+    }
+  ],
+  "nextId": 4
+}
